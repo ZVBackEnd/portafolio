@@ -1,4 +1,4 @@
-# Blog Django
+# Portafolio y Blog en Django
 
 Portafolio desarrollada con Django + SQLite.
 
